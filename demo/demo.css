@@ -1,0 +1,19 @@
+.rabbit{
+    position: absolute;
+    width: 102px;
+    height: 80px;
+    left: 100px;
+    background-repeat: no-repeat; 
+}
+#rabbit1{
+    top: 50px;
+}
+#rabbit2{
+    top: 200px;
+}
+#rabbit3{
+    top: 350px;
+}
+#rabbit4{
+    top: 500px;
+}
